@@ -1,0 +1,8 @@
+langchain #gives chains,agents,prompts and memory
+wikipedia
+langchain-community #GPT4All, hugging face models, file loaders, tools
+langchain-openai #used to connect with OpenAI
+langchain-anthropic #used to connect with claude models(Anthropic)
+python-dotenv #used to manage environment variables
+pydantic #used for data validation and structure management
+gpt4all #used to connect with local gpt4all models
